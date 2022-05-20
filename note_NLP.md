@@ -16,14 +16,14 @@ Lecture 6
 
 * RNN
 
-* LSTN as the most successful RNN model
+* LSTM as the most successful RNN model
 
 Lecture 7
 ----
 
 * Translation?
     - Old-fashioned methods
-    - seq2seq methods: using 2 LSTN models for the source sentence and target sentence.
+    - seq2seq methods: using 2 LSTM models for the source sentence and target sentence.
     - multi-layer RNN, (often 2 is the best)
     - beam search. Normalize by length.
     - BLEU algo. for evaluating.
