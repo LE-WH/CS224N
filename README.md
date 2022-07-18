@@ -15,4 +15,6 @@ And I also put some of my notes here. I started writing notes during Lecture 7, 
 - note_NLP.md is the note for CS224N
 - note_ML.md is the note for Machine Learning in Action by Peter Harrington 
 
-They're pretty concise.
+They're concise.
+
+As a reminder for myself, I finished watching lecture 10 and on way of 11. I may turn to RL for a while.
